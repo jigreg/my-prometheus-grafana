@@ -4,4 +4,8 @@ resources:
   - prometheus-deployment.yaml
   - prometheus-node-exporter.yaml
   - prometheus-svc.yaml
+  - kube-state-cluster-role.yaml
+  - kube-state-deployment.yaml
+  - kube-state-svcaccount.yaml
+  - kube-state-svc.yaml
   - grafana.yaml
